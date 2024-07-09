@@ -1,0 +1,53 @@
+<scheme name="lbx_style" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-11-23T19:33:41</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2020.1.1.0.0</property>
+    <property name="modified">2021-11-23T19:33:57</property>
+    <property name="originalScheme">lbx_style</property>
+  </metaInfo>
+  <attributes>
+    <option name="OC.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="d75285" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="1dc6a0" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="OC.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="efeb58" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="OC.NAMESPACE_LIKE">
+      <value>
+        <option name="FOREGROUND" value="38c0e3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="c6bd" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="98e3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="18d138" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
